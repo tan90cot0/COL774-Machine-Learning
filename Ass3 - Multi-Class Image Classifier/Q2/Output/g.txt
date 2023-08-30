@@ -1,0 +1,2 @@
+Training Accuracy = 91.65 percent
+Test Accuracy = 86.82 percent

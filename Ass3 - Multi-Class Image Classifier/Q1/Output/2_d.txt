@@ -1,0 +1,5 @@
+Results for Part d:
+Training Accuracy is: 31.61246
+Validation Accuracy is: 31.61049
+Test Accuracy is: 31.64825
+Out of bag Accuracy: 31.61246

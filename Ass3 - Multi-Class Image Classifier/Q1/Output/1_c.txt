@@ -1,0 +1,6 @@
+Results for Part c:
+Training Accuracy is: 80.92105
+Validation Accuracy is: 89.2562
+Test Accuracy is: 75.88933
+Best Alpha = 0.00737
+

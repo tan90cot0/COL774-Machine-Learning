@@ -1,0 +1,4 @@
+For BCE: 
+Training Accuracy = 96.54 percent
+Test Accuracy = 87.05 percent
+

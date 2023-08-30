@@ -1,0 +1,5 @@
+Results for Part a:
+Training Accuracy is: 100.0
+Validation Accuracy is: 58.10618
+Test Accuracy is: 57.80233
+

@@ -1,0 +1,46 @@
+Results for 'mean' aggregate function:
+Results for Part a:
+Training Accuracy is: 93.29609
+Validation Accuracy is: 76.2963
+Test Accuracy is: 70.48611
+
+Results for Part b:
+Training Accuracy is: 81.93669
+Validation Accuracy is: 86.66667
+Test Accuracy is: 79.16667
+
+Results for Part c:
+Training Accuracy is: 81.19181
+Validation Accuracy is: 88.14815
+Test Accuracy is: 79.16667
+Best Alpha = 0.00381
+
+Results for Part d:
+Training Accuracy is: 79.14339
+Validation Accuracy is: 80.74074
+Test Accuracy is: 75.69444
+Out of bag Accuracy: 73.37058
+
+Results for 'median' aggregate function:
+Results for Part a:
+Training Accuracy is: 91.80633
+Validation Accuracy is: 74.07407
+Test Accuracy is: 73.61111
+
+Results for Part b:
+Training Accuracy is: 81.37803
+Validation Accuracy is: 86.66667
+Test Accuracy is: 80.90278
+
+Results for Part c:
+Training Accuracy is: 80.26071
+Validation Accuracy is: 87.40741
+Test Accuracy is: 79.16667
+Best Alpha = 0.00552
+
+Results for Part d:
+Training Accuracy is: 79.51583
+Validation Accuracy is: 85.92593
+Test Accuracy is: 78.47222
+Out of bag Accuracy: 77.46741
+

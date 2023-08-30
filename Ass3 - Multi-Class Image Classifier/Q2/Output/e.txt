@@ -1,0 +1,34 @@
+For Relu
+For Number of Layers 2: 
+Training Accuracy = 95.69 percent
+Test Accuracy = 87.58 percent
+
+For Number of Layers 3: 
+Training Accuracy = 95.21 percent
+Test Accuracy = 87.54 percent
+
+For Number of Layers 4: 
+Training Accuracy = 10.0 percent
+Test Accuracy = 10.0 percent
+
+For Number of Layers 5: 
+Training Accuracy = 10.0 percent
+Test Accuracy = 10.0 percent
+
+For Sigmoid
+For Number of Layers 2: 
+Training Accuracy = 94.62 percent
+Test Accuracy = 87.6 percent
+
+For Number of Layers 3: 
+Training Accuracy = 10.0 percent
+Test Accuracy = 10.0 percent
+
+For Number of Layers 4: 
+Training Accuracy = 10.0 percent
+Test Accuracy = 10.0 percent
+
+For Number of Layers 5: 
+Training Accuracy = 10.0 percent
+Test Accuracy = 10.0 percent
+

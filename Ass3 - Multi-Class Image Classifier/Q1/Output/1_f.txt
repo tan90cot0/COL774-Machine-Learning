@@ -1,0 +1,4 @@
+Results for Part f:
+Training Accuracy is: 80.81937
+Validation Accuracy is: 85.92593
+Test Accuracy is: 78.81944

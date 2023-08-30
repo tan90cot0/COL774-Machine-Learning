@@ -1,0 +1,25 @@
+For hidden layer size 5: 
+Training Accuracy = 56.13 percent
+Test Accuracy = 55.87 percent
+Time taken to train = 142.92 seconds
+
+For hidden layer size 10: 
+Training Accuracy = 82.39 percent
+Test Accuracy = 81.13 percent
+Time taken to train = 177.29 seconds
+
+For hidden layer size 15: 
+Training Accuracy = 85.23 percent
+Test Accuracy = 83.78 percent
+Time taken to train = 222.69 seconds
+
+For hidden layer size 20: 
+Training Accuracy = 86.05 percent
+Test Accuracy = 84.43 percent
+Time taken to train = 245.59 seconds
+
+For hidden layer size 25: 
+Training Accuracy = 86.04 percent
+Test Accuracy = 84.35 percent
+Time taken to train = 246.79 seconds
+

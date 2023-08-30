@@ -1,0 +1,4 @@
+Results for Part e:
+Training Accuracy is: 100.0
+Validation Accuracy is: 65.10777
+Test Accuracy is: 65.20106

@@ -1,0 +1,7 @@
+For Activation Relu: 
+Training Accuracy = 92.45 percent
+Test Accuracy = 88.1 percent
+
+For Activation Sigmoid: 
+Training Accuracy = 79.18 percent
+Test Accuracy = 78.12 percent
